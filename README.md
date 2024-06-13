@@ -24,7 +24,7 @@ Pre-Workshop on Seminar of Kaiwu Competition
 
 ### 2.2 提交方式
 
-请上传到自己github仓库，并在群里贴上自己的仓库链接。仓库中需包含  'performance.png'（性能曲线），'record.gif'（游戏效果展示） 和'readme.md' （一份markdown格式的说明文档）,且保留权重文件和requirements.txt/config,yml(pip或conda环境导出)，确保结果是可复现的。我们将使用MOSS等工具进行代码查重。会查重！会查重！会查重！截止日期为6月29日，超过时间则分数衰减(我们会查看commit记录)。
+请上传到自己github仓库，并在群里贴上自己的仓库链接。仓库中需包含  'performance.png'（性能曲线），'record.gif'（游戏效果展示） 和'readme.md' （一份markdown格式的说明文档）,且保留权重文件(.pt)和requirements.txt/config,yml(pip或conda环境导出)，确保结果是可复现的。我们将使用MOSS等工具进行代码查重。会查重！会查重！会查重！截止日期为6月29日，超过时间则分数衰减(我们会查看commit记录)。
 
 ### 2.3 参考资料
 
