@@ -34,8 +34,10 @@ Pre-Workshop on Seminar of Kaiwu Competition
 
 [Welcome to Spinning Up in Deep RL! — Spinning Up documentation (openai.com)](https://spinningup.openai.com/en/latest/)
 
+[ZhiyeTang/Kaiwu-Paper-List: 深圳大学X腾讯开悟教学项目：论文阅读清单 (github.com)](https://github.com/ZhiyeTang/Kaiwu-Paper-List)
+
 [boyu-ai/Hands-on-RL: https://hrl.boyuai.com/ (github.com)](https://github.com/boyu-ai/Hands-on-RL)
 
 [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning: This is the homepage of a new book entitled &#34;Mathematical Foundations of Reinforcement Learning.&#34; (github.com)](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)
 
-（其中后面2个链接分别对应[西湖大学](https://www.bilibili.com/video/BV1sd4y167NS/?vd_source=36094f29bf65fe88d0802302e377b8a2)和[上海交通大学](https://www.boyuai.com/elites/course/xVqhU42F5IDky94x)的公开课程）
+（其中最后2个链接分别对应[西湖大学](https://www.bilibili.com/video/BV1sd4y167NS/?vd_source=36094f29bf65fe88d0802302e377b8a2)和[上海交通大学](https://www.boyuai.com/elites/course/xVqhU42F5IDky94x)的公开课程）
