@@ -18,7 +18,7 @@ Pre-Workshop on Seminar of Kaiwu Competition
 
 1.必须实现的的：DQN算法和PPO算法,并用TensorBoard/matplotlib绘制性能曲线
 
-3.可选的：DQN变体算法的实现（例如D3QN），PPO的算法的改进（例如 lstm+PPO/GRU+PPO/TransFormer+PPO)
+3.可选的：DQN变体算法的实现（例如D3QN），PPO的算法的改进（例如 lstm+PPO/GRU+PPO/TransFormer+PPO)，测试torch.compile带来的性能提升（pytorch2.0后拥有的新函数，在首次编译后可提升训练速度）
 
 3.可选阅读材料：腾讯在AAAI上发布的有关强化学习的论文，去年复赛的代码和Games core
 
